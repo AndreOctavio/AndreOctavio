@@ -9,18 +9,6 @@ I'm a young software engineer eager to learn new things and improve myself.
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AndreOctavio&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats"/><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreOctavio&theme=github_dark&hide_border=true" alt="GitHub Streak Stats"/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreOctavio&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"/>
-</div>
-
----
-<div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
-</div>
-
----
 <div align="right">
     <a href="https://visitcount.itsvg.in">
         <img src="https://visitcount.itsvg.in/api?id=AndreOctavio&icon=5&color=12" alt="Visitor Count"/>
