@@ -1,4 +1,4 @@
-# Hi there, I'm AndreOctavio! 👋
+# Hi there, I'm André!👋
 
 ## About Me
 
@@ -22,5 +22,4 @@ I'm a passionate developer who loves coding and collaborating on exciting projec
 
 ## Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/AndreOctavio)
-- [Twitter](https://twitter.com/AndreOctavio)
+- [LinkedIn](https://www.linkedin.com/in/andreoctavioferreira/)
